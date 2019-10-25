@@ -1,7 +1,7 @@
 ---
 title: Project two
-date: 2018-08-09 18:05:37 +0000
-thumbnail: "/upload/photo-1516906736502-5d3fedc3019a.jpeg"
+date: 2018-08-09T18:05:37.000+00:00
+thumbnail: "/upload/D88B3E89-AEEB-4117-A649-A12C7B8B333A.png"
 year: 2016
 description: subtitle
 categories:
@@ -12,4 +12,4 @@ categories:
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-![](/upload/photo-1516906736502-5d3fedc3019a.jpeg)
+![](/upload/D88B3E89-AEEB-4117-A649-A12C7B8B333A.png)
