@@ -1,7 +1,8 @@
 ---
 works_index: true
-hero_text: "<strong>We're Acme</strong>, we work for brands. But most importantly,
-  we work for fun."
+hero_text: "<strong>I'm Palina</strong>, UX/UI designer with great coding skills.
+  I work for user experience and meaningful projects. But most importantly, I work
+  for fun."
 title: Hero
 
 ---
