@@ -2,7 +2,7 @@
 title: Stena Recycling
 date: 2018-08-01T00:00:00.000+00:00
 thumbnail: "/upload/489E6073-0B8C-4F7B-8A5A-437F4CC015F4.jpeg"
-year: '1997'
+year: '2015'
 categories:
 - print
 description: frontend
