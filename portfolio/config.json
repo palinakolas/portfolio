@@ -1,7 +1,7 @@
 {
-  "title": "Palina",
+  "title": "Palina Kolas",
   "description": "UX/UI Designer and Frontend developer based in Stockholm, Sweden",
-  "logo": "/upload/logo.svg",
+  "logo": "",
   "footer": "Ⓒ Palina Kolas",
   "favicon": "favicon-32x32.png",
   "navigation": [
@@ -12,22 +12,10 @@
       "external": false
     },
     {
-      "text": "Instagram",
-      "link": "https://www.instagram.com/__palina",
-      "position": "left",
-      "external": true
-    },
-    {
-      "text": "Say hi!",
+      "text": "Email me!",
       "link": "mailto:sayhi@mydomain.com",
       "position": "right",
       "external": true
-    },
-    {
-      "text": "Journal",
-      "link": "/journal/",
-      "position": "right",
-      "external": false
     }
   ]
 }

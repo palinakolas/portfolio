@@ -7,6 +7,6 @@
     display: block;
     font-size: 0.8rem;
     text-align: left;
-    padding: 4rem 5vw;
+    padding: 4rem 20px;
   }
 </style>

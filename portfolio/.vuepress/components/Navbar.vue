@@ -120,10 +120,11 @@
     align-items: center;
     justify-content: space-between;
     height: 6rem;
-    padding: 5vw;
+    padding: 20px;
     font-size: 0.8rem;
     font-weight: 600;
     z-index: 10;
+    background: white;
   }
 
   .logo {
