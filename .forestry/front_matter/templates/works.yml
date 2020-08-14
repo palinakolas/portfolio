@@ -9,6 +9,11 @@ fields:
   type: text
   config:
     required: true
+- name: subtitle
+  default: ''
+  label: Subtitle
+  hidden: false
+  type: texts
 - type: file
   name: thumbnail
   label: Thumbnail

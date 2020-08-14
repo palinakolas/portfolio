@@ -5,6 +5,10 @@
     "site:develop": "vuepress dev portfolio",
     "start": "vuepress dev portfolio"
   },
+  "env": {
+    "USERNAME": "admin",
+    "PASSWORD": "admin"
+  },
   "author": "Nichlas W. Andersen",
   "license": "MIT",
   "dependencies": {

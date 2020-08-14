@@ -1,21 +1,23 @@
 <template>
   <div class="project-list">
 
-    <router-link
-      :to="post.path"
-      tag="div"
+    <div
       v-for="post in posts"
       :key="post.title"
       class="post"
-      :style="{ backgroundImage: `url(${post.frontmatter.thumbnail})` }"
+      :style=""
     >
 
       <div class="info">
         <h2>{{ post.frontmatter.title }}</h2>
         <span v-if="post.frontmatter.description">{{ post.frontmatter.description }}</span>
+        <img :src="post.frontmatter.thumbnail" :alt="post.frontmatter.title">
       </div>
-
-    </router-link>
+      <router-link
+      :to="post.path"
+      tag="a">Link to study
+      </router-link>
+    </div>
 
   </div>
 </template>
@@ -37,21 +39,16 @@
   .post {
     position: relative;
     width: 100%;
-    height: 70vh;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     margin-bottom: 5vw;
-    cursor: pointer;
   }
 
   .info {
-    position: absolute;
-    left: 0;
     top: 2rem;
     padding: 0.5rem 1rem;
     background: rgba(255,255,255, 1);
-    max-width: 400px;
   }
 
   .info h2 {
@@ -63,10 +60,9 @@
   }
 
   .info span {
-    display: inline-block;
+    display: block;
     width: auto;
     margin: 0;
-    margin-left: 0.5rem;
     font-size: 0.8rem;
   }
 
