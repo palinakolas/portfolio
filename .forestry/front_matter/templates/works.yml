@@ -13,7 +13,7 @@ fields:
   default: ''
   label: Subtitle
   hidden: false
-  type: texts
+  type: text
 - type: file
   name: thumbnail
   label: Thumbnail
