@@ -10,6 +10,7 @@
 
       <div class="info">
         <h2>{{ post.frontmatter.title }}</h2>
+        <span v-if="post.frontmatter.subtitle">{{ post.frontmatter.subtitle }}</span>
         <span v-if="post.frontmatter.description">{{ post.frontmatter.description }}</span>
         <img :src="post.frontmatter.thumbnail" :alt="post.frontmatter.title">
       </div>
