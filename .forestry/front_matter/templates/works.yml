@@ -9,9 +9,9 @@ fields:
   type: text
   config:
     required: true
-- name: subtitle
+- name: client
   default: ''
-  label: Subtitle
+  label: Client
   hidden: false
   type: text
 - type: file
@@ -39,5 +39,14 @@ fields:
   type: datetime
   config:
     required: true
+- name: short_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: What it is
 pages:
 - portfolio/works/mobile-operator-app.md
