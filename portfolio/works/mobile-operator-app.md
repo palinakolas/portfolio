@@ -1,21 +1,19 @@
 ---
 title: Mobile operator app
 thumbnail: "/upload/3.png"
-description: UX case study
+description: UX and UI Designer
 categories: []
-year: 2018
+year: 2017
 date: 
 subtitle: ''
+client: Halebop
+short_description: With My Halebop app, customers have a simple overview of mobile
+  subscriptions and keep track of how much data they have left. The application You
+  can buy extra surf if it starts its and sometimes we hide easter eggs. Of course
+  you get access to invoices, payment information, PUK codes, support, etc.
 
 ---
-What it is
-With My Halebop app, customers have a simple overview of mobile subscriptions and keep track of how much data they have left. The application You can buy extra surf if it starts its and sometimes we hide easter eggs. Of course you get access to invoices, payment information, PUK codes, support, etc. 
-Client
-Halebop
-Project role
-UX and UI Designer
-Date 
-December 2017
+Project role UX and UI Designer Date December 2017
 
 Business POV — How can we extend the life of customers with Halebop through the app?
 Customer POV — How might we show existing customers they are as valued as new customers?
@@ -42,7 +40,6 @@ Insights, quotes, frictions, everything! There is no such a thing as a “stupid
 4\. Solution
 MLP CANVAS
 We have all we need to decide what goes and what does NOT go in the MLP.
-
 
 And this is how we did it.
 
@@ -137,7 +134,7 @@ The “onion”: how to bring the features to life
 Day 2
 Workshop 2
 hypothesis selection
-test cards for assumptions 
+test cards for assumptions
 sketching session low-fidelity prototype
 
 Workshop 2: outcomes
@@ -164,66 +161,65 @@ Test Card - Halebot
 2\. Test - To verify that, we will create a chatbot (Halebot).
 3\. Metric - And we will measure errands solved and Customer effort score (CES).
 4\. Criteria - We will be right if number of issues landing on agents are lower and CES is low.
-					
+
 Workshop 2: outcomes					
 Low-fidelity Prototype
-						
-Once the Test Cards and the assumptions were defined, we had the right content to sketch and agree on a low-fidelity prototype to be tested with users. 
 
-						
+Once the Test Cards and the assumptions were defined, we had the right content to sketch and agree on a low-fidelity prototype to be tested with users.
+
 Day 3
-						
+
 Pre-interviews
-Medium-high fidelity prototype 
+Medium-high fidelity prototype
 Interview questions
-						
+
 Interviews						
 5 people interviewed
-collection of insights, frictions and quotes 				
-						
+collection of insights, frictions and quotes
+
 Pre-interviews
-						
+
 Mid-high-fidelity Prototype			
-– Using the new Halebop assets, we put together an Invision clickable prototype, considering the assumptions we decided to test.	
-						
+– Using the new Halebop assets, we put together an Invision clickable prototype, considering the assumptions we decided to test.
+
 Interview questions
-						
-– We discussed what questions and how we could approach people, making sure to always ask open questions, to encourage people to be as honest and transparent as possible. 
-						
+
+– We discussed what questions and how we could approach people, making sure to always ask open questions, to encourage people to be as honest and transparent as possible.
+
 Interviews						
 5 people interviewed					
 collection of insights, frictions and quotes			
 –  The team split in 2 groups
 –  We offered Cinema tickets to our interviewees.
 –  Not easy to get people to agree in talking to us!
-–  Next time: maybe we should be wearing Halebop/Telia shirts or jumpers? Brand credibility might be the key! 
-						
+–  Next time: maybe we should be wearing Halebop/Telia shirts or jumpers? Brand credibility might be the key!
+
 Day 4
-						
+
 Workshop 3
-Learnings and synthesis from interviews 
+Learnings and synthesis from interviews
 Analysis of insights
 Learning cards and actions
-MLP definition.				
+MLP definition.
 
 Workshop 3: outcomes
-						
+
 Learning and synthesis from interviews					
 – Group discussion: what have we heard, what surprised us, how did people react, what they expected etc.				
-– Back in our groups, we summarised each interview. 
+– Back in our groups, we summarised each interview.
 (User profile and insights x5)
 
 Analysis					
 – Once we analysed the users’ insights, we got back to our assumptions (test cards). Some of our assumptions were correct, and others needed iteration.
-						
+
 Learning Cards					
-– What we learned, what we observed, decisions and actions we must take. 
+– What we learned, what we observed, decisions and actions we must take.
 
 Personalised deals
 Hypothesis - We believe that personalised offers will make our customers happy and willing to buy more stuff from us.
 Observation - We observed that people saw offers as “pushy” ads.
 Learnings and insights - From that we learned that they need to be pleased at the right space, and communicated in a transparent and relevant manner, with the reason and the what is based on.
-Decisions and actions 
+Decisions and actions
 offer relevant suggestions, personalised
 Concrete offers
 Positioned in relevant areas, not onlu on the dashboard
