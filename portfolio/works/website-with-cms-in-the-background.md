@@ -1,7 +1,7 @@
 ---
 title: Website with CMS in the background
 client: Stena Recycling
-thumbnail: ''
+thumbnail: "/upload/stena_thumb.png"
 description: Frontend developer
 categories: []
 year: 2016
