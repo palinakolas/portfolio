@@ -1,6 +1,6 @@
 ---
 works_index: true
-hero_text: "<strong><br>I'm Palina</strong>, UX/UI designer with great coding skills."
+hero_text: I'm Palina, UX/UI designer with great coding skills.
 title: Works
 
 ---
