@@ -20,7 +20,8 @@
         <SingleProjectHeader
           :title="$page.frontmatter.title"
           :year="$page.frontmatter.year.toString()"
-          :categories="$page.frontmatter.categories"
+          :client="$page.frontmatter.client"
+          :short_description="$page.frontmatter.short_description"
         />
         <Content/>
       </div>

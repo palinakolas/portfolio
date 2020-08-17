@@ -119,7 +119,7 @@
     position: relative;
     align-items: center;
     justify-content: space-between;
-    height: 6rem;
+    height: 4rem;
     padding: 20px;
     font-size: 0.8rem;
     font-weight: 600;

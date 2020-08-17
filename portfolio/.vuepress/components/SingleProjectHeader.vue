@@ -12,10 +12,13 @@
     </div>
 
     <div class="column">
-      <Label class="label">Categories</Label>
-      <span class="value categories" v-for="category in categories" v-text="category" />
+      <Label class="label">Client</Label>
+      <span class="value">{{ client }}</span>
     </div>
-
+    <div class="row">
+      <Label class="label">What it is</Label>
+      <span class="value">{{ short_description }}</span>
+    </div>
   </div>
 </template>
 
@@ -30,8 +33,12 @@
         type: String,
         required: true
       },
-      categories: {
-        type: Array,
+      client: {
+        type: String,
+        required: true
+      },
+      short_description: {
+        type: String,
         required: true
       }
     }
@@ -46,12 +53,16 @@
     width: 100%;
     max-width: 800px;
     margin: 0 auto 3rem auto;
+    flex-wrap: wrap;
   }
 
   .column {
     flex: 0 0 33.33%;
   }
-
+  .row{
+    margin-top: 2rem;
+  }
+  
   .label {
     margin-bottom: 0.5rem;
     font-weight: 700;
@@ -59,14 +70,6 @@
 
   .value {
     font-weight: 400;
-  }
-
-  .categories:after {
-    content: ', ';
-  }
-
-  .categories:last-of-type:after {
-    content: '';
   }
 
 </style>
