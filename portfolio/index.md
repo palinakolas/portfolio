@@ -5,11 +5,15 @@ hero_text: |-
 
   <!-- blank line -->
 
-  <figure class="video_container"><iframe src="<a href="https://www.youtube.com/embed/enMumwvLAug" title="https://www.youtube.com/embed/enMumwvLAug" editing="" creating="">https://www.youtube.com/embed/enMumwvLAug</a>" frameborder="0" allowfullscreen="true"> </iframe>
+  <figure class="video_container">
+
+  `<figure class="video_container">
+    <iframe src="`[`https://www.youtube.com/embed/enMumwvLAug`](https://www.youtube.com/embed/enMumwvLAug "https://www.youtube.com/embed/enMumwvLAug")`" frameborder="0" allowfullscreen="true"> </iframe>
+  </figure>`
 
   </figure>
 
-  <!-- blank line --></p>
+  <!-- blank line -->
 title: Works
 
 ---
