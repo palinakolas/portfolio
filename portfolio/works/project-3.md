@@ -5,7 +5,7 @@ thumbnail: "/upload/2.png"
 year: 2019
 client: Halebop
 description: UX designer
-client: Halebop
+short_description: test test
 
 ---
 # Customer service page
