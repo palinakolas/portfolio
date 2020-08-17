@@ -5,7 +5,6 @@ description: UX and UI Designer
 categories: []
 year: 2017
 date: 
-subtitle: ''
 client: Halebop
 short_description: With My Halebop app, customers have a simple overview of mobile
   subscriptions and keep track of how much data they have left. The application You
@@ -13,11 +12,14 @@ short_description: With My Halebop app, customers have a simple overview of mobi
   you get access to invoices, payment information, PUK codes, support, etc.
 
 ---
-Project role UX and UI Designer Date December 2017
+Project role: UX and UI Designer 
+Date: December 2017
 
 Business POV — How can we extend the life of customers with Halebop through the app?
 Customer POV — How might we show existing customers they are as valued as new customers?
-Process
+
+### Process
+
 1\. Problem
 SHARE IDEA/PROBLEM
 Bring to the team a new idea/problem to be solved.

@@ -108,9 +108,9 @@
     background: var(--color-highlight);
     color: var(--color-black);
   }
-
+  @import url('https://rsms.me/inter/inter.css');
+html { font-family: 'Inter', sans-serif; }
   body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;
     font-size: 16px;
     background: #fff;
     color: var(--color-black);

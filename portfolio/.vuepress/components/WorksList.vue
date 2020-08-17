@@ -12,12 +12,14 @@
         <h2>{{ post.frontmatter.title }}</h2>
         <span v-if="post.frontmatter.subtitle">{{ post.frontmatter.subtitle }}</span>
         <span v-if="post.frontmatter.description">{{ post.frontmatter.description }}</span>
-        <img :src="post.frontmatter.thumbnail" :alt="post.frontmatter.title">
-      </div>
-      <router-link
+        <router-link
       :to="post.path"
       tag="a">Link to study
       </router-link>
+      </div>
+      <div class="image">
+        <img :src="post.frontmatter.thumbnail" :alt="post.frontmatter.title">
+      </div>
     </div>
 
   </div>
@@ -41,10 +43,11 @@
   .post {
     position: relative;
     width: 100%;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    margin-bottom: 5vw;
+    display: flex;
+  }
+
+  .image {
+    flex: 0 0 70%;
   }
 
   .info {
@@ -56,8 +59,7 @@
   .info h2 {
     display: inline-block;
     width: auto;
-    font-size: 0.8rem;
-    font-weight: 700;
+    padding-bottom: 1rem;
     margin: 0;
   }
 
@@ -65,7 +67,10 @@
     display: block;
     width: auto;
     margin: 0;
-    font-size: 0.8rem;
+    padding-bottom: 1rem;
+  }
+  a{
+    color: black;
   }
 
 </style>
