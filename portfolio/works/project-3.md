@@ -11,4 +11,4 @@ short_description: Redesign of third-party customer support widget for both desk
 ---
 ![](/upload/2.png)
 
-<iframe src="https://anchor.fm/davay-sestra/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/davay-sestra/embed/episodes/2020-ehs6ng/a-a2t7gsb" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
