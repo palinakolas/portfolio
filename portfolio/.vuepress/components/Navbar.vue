@@ -124,7 +124,7 @@
     font-size: 0.8rem;
     font-weight: 600;
     z-index: 10;
-    background: white;
+    background: transparent;
   }
 
   .logo {

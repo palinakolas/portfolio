@@ -1,28 +1,25 @@
 <template>
   <div class="project-list">
 
-    <div
+    <router-link
+      :to="post.path"
+      tag="div"
       v-for="post in posts"
       :key="post.title"
       class="post"
       :style=""
     >
-
+    <div class="image">
+        <img :src="post.frontmatter.thumbnail" :alt="post.frontmatter.title">
+      </div>
       <div class="info">
         <h2>{{ post.frontmatter.title }}</h2>
         <span v-if="post.frontmatter.subtitle">{{ post.frontmatter.subtitle }}</span>
         <span v-if="post.frontmatter.description">{{ post.frontmatter.description }}</span>
-        <router-link
-      :to="post.path"
-      tag="a">Link to study
-      </router-link>
       </div>
-      <div class="image">
-        <img :src="post.frontmatter.thumbnail" :alt="post.frontmatter.title">
-      </div>
-    </div>
-
-  </div>
+    
+    </router-link>
+</div>
   
 </template>
 
@@ -43,17 +40,28 @@
   .post {
     position: relative;
     width: 100%;
-    display: flex;
+    background: rgb(243,243,243);
+    margin-bottom: 2rem;
+    cursor: pointer;
   }
 
   .image {
-    flex: 0 0 70%;
+    max-height: 700px;
+    overflow: hidden;
+    padding: 4rem 2rem ;
+  }
+  .image img {
+    max-height: 600px;
+    max-width: 100%;
+    margin-left: auto;
+  margin-right: auto;
+  display: block;
   }
 
   .info {
-    top: 2rem;
-    padding: 0.5rem 1rem;
-    background: rgba(255,255,255, 1);
+    padding-bottom: 4rem;
+    padding-top: 2rem;
+    padding-left:2rem;
   }
 
   .info h2 {
@@ -61,6 +69,7 @@
     width: auto;
     padding-bottom: 1rem;
     margin: 0;
+    text-decoration: underline;
   }
 
   .info span {

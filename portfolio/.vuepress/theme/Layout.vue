@@ -112,19 +112,14 @@
 html { font-family: 'Inter', sans-serif; }
   body {
     font-size: 16px;
-    background: #fff;
+    background:  rgba(252,252,252,1);
     color: var(--color-black);
   }
 
-  img {
-    width: 100%;
-    max-width: 100%;
-    line-height: 0;
-    margin: 2rem 0;
-  }
 
   .container {
-    padding: 0 5vw;
+    max-width: 1400px;
+    margin: 0 auto;
   }
 
   .journal-list, .single-journal {
