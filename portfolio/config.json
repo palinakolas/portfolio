@@ -6,6 +6,12 @@
   "favicon": "favicon-32x32.png",
   "navigation": [
     {
+      "text": "LinkedIn",
+      "link": "https://www.linkedin.com/in/palinakolas/",
+      "position": "right",
+      "external": false
+    },
+    {
       "text": "Works",
       "link": "/",
       "position": "right",
