@@ -12,7 +12,7 @@ short_description: With My Halebop app, customers have a simple overview of mobi
   you get access to invoices, payment information, PUK codes, support, etc.
 
 ---
-Project role: UX and UI Designer 
+Project role: UX and UI Designer
 Date: December 2017
 
 Business POV — How can we extend the life of customers with Halebop through the app?
@@ -45,40 +45,21 @@ We have all we need to decide what goes and what does NOT go in the MLP.
 
 And this is how we did it.
 
-Day 1
-Team breakfast
-\- Check-in
-\- Smileys
-\- Ways of working
-\- Project/team ceremonies
-Workshop 1
-\- Team availability
-\- Project timeline/ milestones
-\-Roles and responsibilities
-\- The “onion”: how to bring the features to life
+#### Day 1
 
-Day 2
-Workshop 2
-\- hypothesis selection
-\- test cards for assumptions
-\- sketching session
-\- low-fidelity prototype
+Team breakfast - Check-in - Smileys - Ways of working - Project/team ceremonies Workshop 1 - Team availability - Project timeline/ milestones -Roles and responsibilities - The “onion”: how to bring the features to life
 
-Day 3
-Pre-interviews
-\- Medium-high fidelity prototype
-\- Interview questions
-Interviews
-\- 5 people interviewed
-\- collection of insights, frictions and quotes
+#### Day 2
 
-Day 4
-Workshop 3
-\- Learnings from interviews
-\- Synthesis of interviews
-\- Analysis of insights
-\- Learning cards and actions
-\- MLP definition.
+Workshop 2 - hypothesis selection - test cards for assumptions - sketching session - low-fidelity prototype
+
+#### Day 3
+
+Pre-interviews - Medium-high fidelity prototype - Interview questions Interviews - 5 people interviewed - collection of insights, frictions and quotes
+
+#### Day 4
+
+Workshop 3 - Learnings from interviews - Synthesis of interviews - Analysis of insights - Learning cards and actions - MLP definition.
 
 Day 1
 Team breakfast
@@ -133,7 +114,11 @@ Day 1
 Workshop 1: outcomes
 The “onion”: how to bring the features to life
 – Going back to our “onion map”, sketching ideas on how those features (personalised deals, support, notifications) can be visualised through the app.
+
+#### 
 Day 2
+
+
 Workshop 2
 hypothesis selection
 test cards for assumptions
@@ -169,7 +154,7 @@ Low-fidelity Prototype
 
 Once the Test Cards and the assumptions were defined, we had the right content to sketch and agree on a low-fidelity prototype to be tested with users.
 
-Day 3
+#### Day 3
 
 Pre-interviews
 Medium-high fidelity prototype
@@ -196,7 +181,7 @@ collection of insights, frictions and quotes
 –  Not easy to get people to agree in talking to us!
 –  Next time: maybe we should be wearing Halebop/Telia shirts or jumpers? Brand credibility might be the key!
 
-Day 4
+#### Day 4
 
 Workshop 3
 Learnings and synthesis from interviews
