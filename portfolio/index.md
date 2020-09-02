@@ -1,7 +1,7 @@
 ---
 works_index: true
 hero_text: I'm Palina, UX/UI designer with great coding skills.
-title: Portfolio
+title: Portfolio | Palina Kolas
 
 ---
 <Hero :text="$page.frontmatter.hero_text" />
