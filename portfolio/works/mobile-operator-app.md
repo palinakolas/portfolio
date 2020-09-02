@@ -202,13 +202,4 @@ Analysis
 Learning Cards					
 – What we learned, what we observed, decisions and actions we must take.
 
-Personalised deals
-Hypothesis - We believe that personalised offers will make our customers happy and willing to buy more stuff from us.
-Observation - We observed that people saw offers as “pushy” ads.
-Learnings and insights - From that we learned that they need to be pleased at the right space, and communicated in a transparent and relevant manner, with the reason and the what is based on.
-Decisions and actions
-offer relevant suggestions, personalised
-Concrete offers
-Positioned in relevant areas, not onlu on the dashboard
-Space where offers / deals live
-Explore notifications.
+Personalised deals Hypothesis - We believe that personalised offers will make our customers happy and willing to buy more stuff from us. Observation - We observed that people saw offers as “pushy” ads. Learnings and insights - From that we learned that they need to be pleased at the right space, and communicated in a transparent and relevant manner, with the reason and the what is based on. Decisions and actions offer relevant suggestions, personalised Concrete offers Positioned in relevant areas, not only on the dashboard Space where offers / deals live Explore notifications.
