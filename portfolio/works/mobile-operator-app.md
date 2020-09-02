@@ -61,7 +61,9 @@ Pre-interviews - Medium-high fidelity prototype - Interview questions Interviews
 
 Workshop 3 - Learnings from interviews - Synthesis of interviews - Analysis of insights - Learning cards and actions - MLP definition.
 
-Day 1
+#### Day 1
+
+
 Team breakfast
 – Check-in
 – Smileys :)
