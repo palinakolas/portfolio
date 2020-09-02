@@ -1,14 +1,14 @@
 {
-  "title": "Palina Kolas",
+  "title": "",
   "description": "UX/UI Designer and Frontend developer based in Stockholm, Sweden",
   "logo": "",
   "footer": "Ⓒ Palina Kolas",
   "favicon": "favicon-32x32.png",
   "navigation": [
     {
-      "text": "Portfolio",
+      "text": "Palina Kolas",
       "link": "/",
-      "position": "right",
+      "position": "left",
       "external": false
     },
     {
