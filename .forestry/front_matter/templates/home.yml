@@ -14,14 +14,14 @@ fields:
     schema:
       format: markdown
 - type: textarea
-  name: hero_text_a
+  name: hero_a_text
   label: Hero A text
   config:
     wysiwyg: true
     schema:
       format: markdown
 - type: textarea
-  name: hero_text_b
+  name: hero_b_text
   label: Hero B text
   config:
     wysiwyg: true
