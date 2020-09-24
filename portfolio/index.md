@@ -4,7 +4,8 @@ hero_text: I'm Palina, UX/UI designer with great coding skills.
 title: Portfolio | Palina Kolas
 hero_text_a: Text a.
 hero_text_b: Text b.
-
+hero_a_text: text a
+hero_b_text: text b
 
 ---
 <Hero :text="$page.frontmatter.hero_text" />
