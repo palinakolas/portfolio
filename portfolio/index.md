@@ -8,6 +8,6 @@ hero_text_b: Text b.
 
 ---
 <Hero :text="$page.frontmatter.hero_text" />
-<Hero :text="$page.frontmatter.hero_text_a" />
-<Hero :text="$page.frontmatter.hero_text_b" />
+<Hero :text="$page.frontmatter.hero_a_text" />
+<Hero :text="$page.frontmatter.hero_b_text" />
 <WorksList />
