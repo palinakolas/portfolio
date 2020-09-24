@@ -11,12 +11,12 @@
     >
     <div class="image">
         <img :src="post.frontmatter.thumbnail" :alt="post.frontmatter.title">
-      </div>
-      <div class="info">
+    </div>
+    <div class="info">
         <h2>{{ post.frontmatter.title }}</h2>
         <span v-if="post.frontmatter.subtitle">{{ post.frontmatter.subtitle }}</span>
         <span v-if="post.frontmatter.description">{{ post.frontmatter.description }}</span>
-      </div>
+    </div>
     
     </router-link>
 </div>
@@ -43,12 +43,13 @@
     background: rgb(243,243,243);
     margin-bottom: 2rem;
     cursor: pointer;
+    border-radius: 40px;
+    display: flex;
+    flex-direction: column;
   }
-
   .image {
     max-height: 700px;
     overflow: hidden;
-    padding: 4rem 2rem ;
   }
   .image img {
     max-height: 600px;
@@ -59,9 +60,7 @@
   }
 
   .info {
-    padding-bottom: 4rem;
     padding-top: 2rem;
-    padding-left:2rem;
   }
 
   .info h2 {
@@ -80,6 +79,18 @@
   }
   a{
     color: black;
+  }
+
+  @media screen and (min-width: 800px) {
+    .post{
+      flex-direction: row;
+    }
+    .image {
+      flex-basis: 70%;
+    }
+    .info {
+      flex-basis: 30%;
+    }
   }
 
 </style>

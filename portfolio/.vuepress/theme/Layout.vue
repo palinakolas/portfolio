@@ -120,6 +120,7 @@ html { font-family: 'Inter', sans-serif; }
   .container {
     max-width: 1400px;
     margin: 0 auto;
+    padding: 0 15px;
   }
 
   .journal-list, .single-journal {
