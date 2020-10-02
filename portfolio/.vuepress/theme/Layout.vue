@@ -144,7 +144,6 @@ html { font-family: 'Inter', sans-serif; }
   h2 {
     font-size: 2rem;
     font-weight: 300;
-    margin: 2rem auto 2rem auto;
   }
 
   h3 {
