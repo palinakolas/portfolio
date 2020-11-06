@@ -11,7 +11,6 @@ short_description: 'Application tracking system is designed to receive and proce
   applications for educational programmes. '
 
 ---
-The project is under NDA.
-Use case study is comming soon.
+The project is under NDA. Use case study is coming soon.
 
 ![](/upload/screenshot-2020-11-06-at-11-18-23.png)
