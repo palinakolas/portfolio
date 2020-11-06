@@ -1,6 +1,6 @@
 <template>
   <div class="project-list">
-
+    
     <router-link
       :to="post.path"
       tag="div"
@@ -9,10 +9,12 @@
       class="post"
       :style=""
     >
-    <div class="slide">
+    <!-- <div class="slide">
         <img class="image" :src="post.frontmatter.thumbnail" :alt="post.frontmatter.title">
-        <img class="image" :src="post.frontmatter.thumbnail" :alt="post.frontmatter.title">
-        </div>
+        
+        </div> -->
+        <div class="image">
+    <img  :src="post.frontmatter.thumbnail" :alt="post.frontmatter.title"></div>
     <div class="info">
         <h2>{{ post.frontmatter.title }}</h2>
         <span v-if="post.frontmatter.subtitle">{{ post.frontmatter.subtitle }}</span>
@@ -40,20 +42,25 @@
 
   .post {
     position: relative;
+    padding: 2rem;
     width: 100%;
-    background: rgb(243,243,243);
+    background: rgba(243,243,243);
     margin-bottom: 2rem;
     cursor: pointer;
     border-radius: 40px;
     display: flex;
     flex-direction: column;
   }
+  .post:hover {
+    background: rgba(243,243,243,0.5);
+    cursor: pointer;
+  }
   .image {
-    max-height: 700px;
+    max-height: 500px;
     overflow: hidden;
   }
   .image img {
-    max-height: 600px;
+    max-height: 400px;
     max-width: 100%;
     margin-left: auto;
   margin-right: auto;
@@ -96,7 +103,7 @@
 
 /*Paralax*/
 
-.slide {
+/*.slide {
   position: relative;
   padding: 20px;
   min-height: 400px;
@@ -113,7 +120,7 @@ img {
   transform: translateZ(.25px) scale(.75) translateX(-94%) translateY(-100%);
 }
 
-img:last-of-type {
+ img:last-of-type {
   left:70%;
   transform: translateZ(.4px) scale(.6) translateX(-104%) translateY(-40%);
 }
@@ -141,7 +148,7 @@ img:last-of-type {
 
 .slide:before {
   transform: translateZ(-1px) scale(2);
-}
+} */
 
 
 </style>
