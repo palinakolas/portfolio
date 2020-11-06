@@ -52,5 +52,6 @@ fields:
       format: markdown
   label: What it is
 pages:
-- portfolio/works/mobile-operator-app.md
-- portfolio/works/website-with-cms-in-the-background.md
+- portfolio/works/project-1.md
+- portfolio/works/project-2.md
+- portfolio/works/project-3.md
