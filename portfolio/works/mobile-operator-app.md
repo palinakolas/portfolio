@@ -21,10 +21,14 @@ During the research phase, it was important to step back and analyse the current
 
 In order to fix the current workflow, we decided to run this project using a Hypothesis-driven design process to show the marketing and development team how to get early feedback for their ideas.
 
+![](/upload/hypothesis-1.png)
+
 In order to understand what problems exist in the current product, I have identified major pain points of customers through the analysis of customer support emails and app reviews. Major complaint was that customers didn't feel valued for being loyal.
 Another way to get more assumptions of what our product needs, I gathered main stakeholders of the project and organised a brainstorming session where everyone shared their opinions. Then we wrote our assumptions and questions on sticky notes and organised them into groups to make it easier to review them.
 
 ### 2. Prioritize
+
+![](/upload/hypothesis-2.png)
 
 When it comes to choosing which question to tackle first, I think about what would impact our product the most or what would bring the most value to our users.
 As we had a big group of stakeholders, we dot-voted to prioritise the assumptions.
@@ -43,6 +47,8 @@ Based on these questions, the solutions can be:
 3. _Chatbot_ integrated in apps and webpage.
 
 Now we can combine the solution and question, and turn it into a hypothesis.
+
+![](/upload/hypothesis-3.png)
 
 In other words, it’s crucial to have a measurable outcome for the hypothesis so we can determine whether it has succeeded or failed. A well-defined experiment can validate/invalidate the hypothesis.
 
@@ -71,6 +77,8 @@ Test Card - _Chatbot_
 
 After defining the experiment, we had the right base to start sketching and agree on a prototype to be tested with users. All we need is a low-fidelity prototype.
 
+![](/upload/screenshot-2020-11-06-at-11-03-12.png)
+
 ### 5. Test
 
 ###### "Get REAL FEEDBACK and LEARN. Put it in front of users, take notes and observe their reactions. Ask why! Make sure to ask open ended questions. Insights, quotes, frictions, everything! There is no such a thing as a “stupid question”."
@@ -83,48 +91,41 @@ In the end we interviewed 5 people and we got collection of insights, frictions 
 
 ### 6. Outcomes & Learnings
 
-Learning and synthesis from interviews					
-– Group discussion: what have we heard, what surprised us, how did people react, what they expected etc.				
-– Back in our groups, we summarised each interview.
-(User profile and insights x5)
+Learning and synthesis from interviews: what have we heard, what surprised us, how did people react, what they expected. We summarised each interview.
 
-Analysis					
-– Once we analysed the users’ insights, we got back to our assumptions (test cards). Some of our assumptions were correct, and others needed iteration.
+Once we analysed the users’ insights, we got back to our assumptions (test cards). Some of our assumptions were correct, and others needed iteration.
 
-Learning Cards					
-– What we learned, what we observed, decisions and actions we must take.
+What we learned, what we observed, decisions and actions we must take.
 
-Personalised deals
-Hypothesis - We believed that personalised offers will make our customers happy and willing to buy more stuff from us.
-Observation - We observed that people saw offers as “pushy” ads.
-Learnings and insights - From that we learned that they need to be pleased at the right space, and communicated in a transparent and relevant manner, with the reason and the what is based on.
-Decisions and actions: offer relevant,personalised suggestions, Concrete offers, Positioned in relevant areas, not only on the dashboard, Space where offers / deals live, Explore notifications.
+_Personalised deals_
 
-Die donut die
-Hypothesis - We believed that customers need easy access to an overview of their data usage.
-Observation - We observed: balance is the main priority of the app; it’s clear how much I have left.
-Learnings and insights - From that we learned that the breakdown of data usage is not a necessity, but nice to have
-Decisions and actions: explore how to break down the data usage; focus on the data left.
+Hypothesis - We believed that personalised offers will make our customers happy and willing to buy more stuff from us. Observation - We observed that people saw offers as “pushy” ads. Learnings and insights - From that we learned that they need to be pleased at the right space, and communicated in a transparent and relevant manner, with the reason and the what is based on. Decisions and actions: offer relevant,personalised suggestions, Concrete offers, Positioned in relevant areas, not only on the dashboard, Space where offers / deals live, Explore notifications.
 
-Halebot
-Hypothesis - We believed that customers need accurate answers in an efficient manner.
-Observation - We observed they liked a direct connection with the company representative.
-Learnings and insights - From that we learned that: direct is fast; they need visual queues.
-Decisions and actions: combine customer supportand chatbot, build a working prototype of chatbot,discover the fastest way of communication
+_Die donut die_
+
+Hypothesis - We believed that customers need easy access to an overview of their data usage. Observation - We observed: balance is the main priority of the app; it’s clear how much I have left. Learnings and insights - From that we learned that the breakdown of data usage is not a necessity, but nice to have Decisions and actions: explore how to break down the data usage; focus on the data left.
+
+_Chatbot_ 
+
+Hypothesis - We believed that customers need accurate answers in an efficient manner. Observation - We observed they liked a direct connection with the company representative. Learnings and insights - From that we learned that: direct is fast; they need visual queues. Decisions and actions: combine customer support and chatbot, build a working prototype of chatbot, discover the fastest way of communication
 
 #### MVP definition
 
-We have all we need to decide what goes and what does not go in the Minimum viable product..
-In the MVP we decided to focus on:
-Focus on post paid and prepaid customers,
-Core functionalities (login, account details, billing settings, app settings, switch between accounts)
-Data usage visualisation
-Chatbot and customer service
-Not in the MVP:
-Tailored and contextual suggestions
-Data usage breakdown
+We have all we need to decide what goes and what does not go in the Minimum viable product.
 
-Draw “the onion” - how to bring the features to life
+In the MVP we decided to focus on: 
+
+* Focus on post paid and prepaid customers, 
+* Core functionalities (login, account details, billing settings, app settings, switch between accounts) 
+* Data usage visualisation 
+* Chatbot and customer service 
+
+Not in the MVP: 
+
+* Tailored and contextual suggestions 
+* Data usage breakdown
+
+![](/upload/screenshot-2020-11-06-at-11-08-10.png)
 
 ### 7. Further development
 
