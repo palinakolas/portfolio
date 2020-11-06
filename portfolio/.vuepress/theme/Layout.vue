@@ -14,6 +14,8 @@
       >
         <Content/>
       </div>
+      </div>
+      <div class="container-article">
 
       <!-- Single project view -->
       <div v-if="isSingleProject">
@@ -36,8 +38,8 @@
       <div v-if="isSingleJournal" class="single-journal">
         <Content/>
       </div>
-
-    </div>
+      </div>
+    
 
     <Footer />
 
@@ -133,7 +135,12 @@ html { font-family: 'Inter', sans-serif; }
 
 
   .container {
-    max-width: 1200px;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+  .container-article {
+    max-width: 1000px;
     margin: 0 auto;
     padding: 0 15px;
   }
@@ -167,10 +174,16 @@ html { font-family: 'Inter', sans-serif; }
     margin: 2rem 0;
   }
 
-  p, ul, ol{
+  p {
     font-size: 1rem;
     line-height: 1.5;
     margin: 1rem 0;
+  }
+
+  ul, ol{
+    font-size: 1rem;
+    line-height: 1.5;
+    margin: 1rem 0 0 2rem;
   }
 
   pre {
@@ -186,7 +199,7 @@ html { font-family: 'Inter', sans-serif; }
     padding: 0.05rem 0.25rem;
     font-weight: 400;
   }
-  
+
   img{
     max-width: 100%;
   }

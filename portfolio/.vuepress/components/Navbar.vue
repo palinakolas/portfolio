@@ -152,7 +152,9 @@
     margin: 0;
   }
 
-  .navigation li:hover {
+ 
+
+  .navigation li {
     border-bottom: 1px solid #000;
   }
 
@@ -184,21 +186,22 @@
     transform: translateY(-100%);
     transition: transform 0.35s ease-in-out;
     text-align: center;
-    font-size: 2rem;
     display: flex;
     justify-content: center;
     align-items: center;
     line-height: 2;
   }
 
+ .mobile-nav  ul {
+    margin: 0;
+  }
+
   .mobile-nav li {
     list-style: none;
     cursor: pointer;
     transition: opacity 0.15s;
-  }
-
-  .mobile-nav li:hover {
-    opacity: 0.6;
+    font-size: 2rem;
+    text-decoration: underline;
   }
 
   .mobile-nav--active {
