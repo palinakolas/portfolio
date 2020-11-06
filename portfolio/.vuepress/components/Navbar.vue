@@ -158,10 +158,6 @@
     border-bottom: 1px solid #000;
   }
 
-  .active {
-    border-bottom: 1px solid #000;
-  }
-
   a {
     text-decoration: none;
     color: inherit;

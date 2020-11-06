@@ -44,12 +44,11 @@ export default {
     letter-spacing: 0.1rem;
     padding: 2rem;
     min-height: 300px;
-    flex-basis: calc(50% - 1rem);
     border-radius: 40px;
     color: white;
   }
   .subtitle:not(:last-child){
-    margin-right: 2rem;
+    margin-bottom: 2rem;
   }
   .subtitle.green{
     background-color: #9ABFB0;
@@ -68,6 +67,13 @@ export default {
     .title {
       margin: 12vw auto 7vw auto;
     }
+    .subtitle-wrapper{
+      flex-wrap: nowrap;
+    }
+    .subtitle:not(:last-child){
+    margin-right: 2rem;
+    margin-bottom: 0;
+  }
   }
 
 </style>
