@@ -105,7 +105,7 @@ _Die donut die_
 
 Hypothesis - We believed that customers need easy access to an overview of their data usage. Observation - We observed: balance is the main priority of the app; it’s clear how much I have left. Learnings and insights - From that we learned that the breakdown of data usage is not a necessity, but nice to have Decisions and actions: explore how to break down the data usage; focus on the data left.
 
-_Chatbot_ 
+_Chatbot_
 
 Hypothesis - We believed that customers need accurate answers in an efficient manner. Observation - We observed they liked a direct connection with the company representative. Learnings and insights - From that we learned that: direct is fast; they need visual queues. Decisions and actions: combine customer support and chatbot, build a working prototype of chatbot, discover the fastest way of communication
 
@@ -113,16 +113,16 @@ Hypothesis - We believed that customers need accurate answers in an efficient ma
 
 We have all we need to decide what goes and what does not go in the Minimum viable product.
 
-In the MVP we decided to focus on: 
+In the MVP we decided to focus on:
 
-* Focus on post paid and prepaid customers, 
-* Core functionalities (login, account details, billing settings, app settings, switch between accounts) 
-* Data usage visualisation 
-* Chatbot and customer service 
+* Focus on post paid and prepaid customers,
+* Core functionalities (login, account details, billing settings, app settings, switch between accounts)
+* Data usage visualisation
+* Chatbot and customer service
 
-Not in the MVP: 
+Not in the MVP:
 
-* Tailored and contextual suggestions 
+* Tailored and contextual suggestions
 * Data usage breakdown
 
 ![](/upload/screenshot-2020-11-06-at-11-08-10.png)
@@ -130,5 +130,7 @@ Not in the MVP:
 ### 7. Further development
 
 After MVP release of both IOS and Android, we had 3 channels that gathered user input: app reviews, customer support, and user tests.
+
+![](/upload/3.png)
 
 More coming soon.
