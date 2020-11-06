@@ -32,7 +32,7 @@ fields:
   default: 
   label: Year
   hidden: false
-  type: number
+  type: text
   config:
     required: true
 - name: date

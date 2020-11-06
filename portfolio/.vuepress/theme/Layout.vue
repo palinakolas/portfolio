@@ -21,6 +21,7 @@
           :title="$page.frontmatter.title"
           :year="$page.frontmatter.year.toString()"
           :client="$page.frontmatter.client"
+          :role="$page.frontmatter.role"
           :short_description="$page.frontmatter.short_description"
         />
         <Content/>
@@ -82,6 +83,20 @@
 </script>
 
 <style>
+html {
+  height: 100%;
+  overflow: hidden;
+}
+
+body { 
+  margin:0;
+  padding:0;
+	perspective: 1px;
+	transform-style: preserve-3d;
+  height: 100%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
 
   :root {
     --color-black: #1c1c1c;
@@ -118,7 +133,7 @@ html { font-family: 'Inter', sans-serif; }
 
 
   .container {
-    max-width: 1400px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 0 15px;
   }
@@ -131,31 +146,31 @@ html { font-family: 'Inter', sans-serif; }
 
   h1,h2,h3,h4,h5,h6,p {
     width: 100%;
-    max-width: 800px;
   }
 
   h1 {
     font-size: 3rem;
     line-height: 1.15;
     font-weight: 300;
-    margin: 0 auto 3rem auto;
+    margin: 0 3rem;
   }
 
   h2 {
     font-size: 2rem;
     font-weight: 300;
+    margin: 2rem 0;
   }
 
   h3 {
     font-size: 1rem;
     font-weight: 700;
-    margin: 2rem auto 1rem auto;
+    margin: 2rem 0;
   }
 
-  p {
+  p, ul, ol{
     font-size: 1rem;
     line-height: 1.5;
-    margin: 1rem auto 2rem auto;
+    margin: 1rem 0;
   }
 
   pre {
@@ -171,5 +186,8 @@ html { font-family: 'Inter', sans-serif; }
     padding: 0.05rem 0.25rem;
     font-weight: 400;
   }
-
+  
+  img{
+    max-width: 100%;
+  }
 </style>

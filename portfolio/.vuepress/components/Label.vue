@@ -12,7 +12,7 @@
 <style scoped>
   .label {
     display: block;
-    font-size: 0.8rem;
+    font-size: 1rem;
     font-weight: 700;
   }
 </style>

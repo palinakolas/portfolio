@@ -1,19 +1,20 @@
 <template>
   <div class="header">
-
-    <div class="column">
-      <Label class="label">Project</Label>
-      <span class="value">{{ title }}</span>
-    </div>
-
-    <div class="column">
-      <Label class="label">Year</Label>
-      <span class="value">{{ year }}</span>
-    </div>
-
+    <div class="row">
+    <Label class="label">Project</Label>
+      <h2 class="value">{{ title }}</h2>
+</div>
     <div class="column">
       <Label class="label">Client</Label>
       <span class="value">{{ client }}</span>
+    </div>
+    <div class="column">
+      <Label class="label">My role</Label>
+      <span class="value">{{ role }}</span>
+    </div>
+    <div class="column">
+      <Label class="label">Year</Label>
+      <span class="value">{{ year }}</span>
     </div>
     <div class="row">
       <Label class="label">What it is</Label>
@@ -34,6 +35,10 @@
         required: true
       },
       client: {
+        type: String,
+        required: true
+      },
+      role: {
         type: String,
         required: true
       },
@@ -60,7 +65,8 @@
     flex: 0 0 33.33%;
   }
   .row{
-    margin-top: 2rem;
+    margin: 2rem 0;
+    flex: 0 0 100%;
   }
   
   .label {
@@ -71,5 +77,6 @@
   .value {
     font-weight: 400;
   }
+
 
 </style>
