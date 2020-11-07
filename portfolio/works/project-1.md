@@ -81,7 +81,7 @@ After defining the experiment, we had the right base to start sketching and agre
 
 ### 5. Test
 
-###### "Get REAL FEEDBACK and LEARN. Put it in front of users, take notes and observe their reactions. Ask why! Make sure to ask open ended questions. Insights, quotes, frictions, everything! There is no such a thing as a “stupid question”."
+#### "Get REAL FEEDBACK and LEARN. Put it in front of users, take notes and observe their reactions. Ask why! Make sure to ask open ended questions. Insights, quotes, frictions, everything! There is no such a thing as a “stupid question”."
 
 Using the new Halebop assets, we put together an Invision clickable prototype, considering the assumptions we decided to test.
 
