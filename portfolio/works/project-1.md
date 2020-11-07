@@ -51,27 +51,11 @@ Now we can combine the solution and question, and turn it into a hypothesis.
 ![](/upload/hypothesis-3.png)
 
 In other words, it’s crucial to have a measurable outcome for the hypothesis so we can determine whether it has succeeded or failed. A well-defined experiment can validate/invalidate the hypothesis.
-
-Test card - _Personalised offers_
-
-1. Hypothesis - We believe that personalised offers will make  our customers happy and willing to buy more “stuff” from us.
-2. Test - To verify that, we will create a notification area that includes offers related to their current profile and usage.
-3. Metric - And we will measure how many people access that area.
-4. Criteria - We will be right if people take actions and get deals, or at least ask more about it.
-
-Test card - _Die Donut Die!_
-
-1. Hypothesis - We believe that customers need easy access to their usage.
-2. Test - To verify that, we will create a visualisation of their usage and remaining data.
-3. Metric - And we will measure if people have a clear interpretation of their usage and remaining data.
-4. Criteria - We will be right if customer service has a lower number of issues regarding data usage.
-
-Test Card - _Chatbot_
-
-1. Hypothesis - We believe that customers need accurate answers in an efficient manner.
-2. Test - To verify that, we will create a chatbot (Halebot).
-3. Metric - And we will measure errands solved and Customer effort score (CES).
-4. Criteria - We will be right if the number of issues landing on agents are lower and CES is low.
+|   | Hypothesis | Test  | Metric | Criteria |
+| ------ | ------ | ------- | ------ | ------- |
+| Personalised deals   | We believe that personalised offers will make our customers happy and willing to buy more stuff from us.    | To verify that, we will create a notification area that includes offers related to their current profile and usage.   | And we will measure how many people access that area.   | We will be right if people take actions and get deals, or at least ask more about it.   |
+| Die donut die | We believe that customers need easy access to an overview of their data usage. | To verify that, we will create a visualisation of their usage and remaining data. | And we will measure if people have a clear interpretation of their usage and remaining data. | We will be right if customer service has a lower number of issues regarding data usage. |
+| Chatbot | We believe that customers need accurate answers in an efficient manner. | To verify that, we will create a chatbot. | And we will measure errands solved and Customer effort score (CES). | We will be right if the number of issues landing on agents are lower and CES is low. |
 
 ### 4. Ideation & Prototype
 
@@ -101,7 +85,7 @@ What we learned, what we observed, decisions and actions we must take.
 | ------ | ------ | ------- | ------ | ------- |
 | Personalised deals   | We believed that personalised offers will make our customers happy and willing to buy more stuff from us.    | We observed that people saw offers as “pushy” ads.   | From that we learned that they need to be pleased at the right space, and communicated in a transparent and relevant manner, with the reason and the what is based on.   | Offer relevant, personalised suggestions. Concrete offers positioned in relevant areas, not only on the dashboard. Space where offers / deals live. Explore notifications.   |
 | Die donut die | We believed that customers need easy access to an overview of their data usage. | We observed: balance is the main priority of the app; it’s clear how much I have left. | From that we learned that the breakdown of data usage is not a necessity, but nice to have. | Explore how to break down the data usage. Focus on the data left. |
-| Halebot | We believed that customers need accurate answers in an efficient manner. | We observed they liked a direct connection with the company representative. | From that we learned that: direct is fast; they need visual queues. | Combine customer supportand chatbot. Build a working prototype of chatbot. Discover the fastest way of communication |
+| Chatbot | We believed that customers need accurate answers in an efficient manner. | We observed they liked a direct connection with the company representative. | From that we learned that: direct is fast; they need visual queues. | Combine customer supportand chatbot. Build a working prototype of chatbot. Discover the fastest way of communication |
 
 
 #### MVP definition
