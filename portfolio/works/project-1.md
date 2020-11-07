@@ -99,15 +99,33 @@ What we learned, what we observed, decisions and actions we must take.
 
 _Personalised deals_
 
-Hypothesis - We believed that personalised offers will make our customers happy and willing to buy more stuff from us. Observation - We observed that people saw offers as “pushy” ads. Learnings and insights - From that we learned that they need to be pleased at the right space, and communicated in a transparent and relevant manner, with the reason and the what is based on. Decisions and actions: offer relevant,personalised suggestions, Concrete offers, Positioned in relevant areas, not only on the dashboard, Space where offers / deals live, Explore notifications.
+Hypothesis - We believed that personalised offers will make our customers happy and willing to buy more stuff from us. 
+
+Observation - We observed that people saw offers as “pushy” ads.
+
+Learnings and insights - From that we learned that they need to be pleased at the right space, and communicated in a transparent and relevant manner, with the reason and the what is based on. 
+
+Decisions and actions: offer relevant, personalised suggestions, Concrete offers, Positioned in relevant areas, not only on the dashboard, Space where offers / deals live, Explore notifications.
 
 _Die donut die_
 
-Hypothesis - We believed that customers need easy access to an overview of their data usage. Observation - We observed: balance is the main priority of the app; it’s clear how much I have left. Learnings and insights - From that we learned that the breakdown of data usage is not a necessity, but nice to have Decisions and actions: explore how to break down the data usage; focus on the data left.
+Hypothesis - We believed that customers need easy access to an overview of their data usage. 
+
+Observation - We observed: balance is the main priority of the app; it’s clear how much I have left. 
+
+Learnings and insights - From that we learned that the breakdown of data usage is not a necessity, but nice to have.
+
+Decisions and actions: explore how to break down the data usage; focus on the data left.
 
 _Chatbot_
 
-Hypothesis - We believed that customers need accurate answers in an efficient manner. Observation - We observed they liked a direct connection with the company representative. Learnings and insights - From that we learned that: direct is fast; they need visual queues. Decisions and actions: combine customer support and chatbot, build a working prototype of chatbot, discover the fastest way of communication
+Hypothesis - We believed that customers need accurate answers in an efficient manner. 
+
+Observation - We observed they liked a direct connection with the company representative. 
+
+Learnings and insights - From that we learned that: direct is fast; they need visual queues. 
+
+Decisions and actions: combine customer support and chatbot, build a working prototype of chatbot, discover the fastest way of communication.
 
 #### MVP definition
 
