@@ -126,9 +126,12 @@ Observation - We observed they liked a direct connection with the company repres
 Learnings and insights - From that we learned that: direct is fast; they need visual queues.
 
 Decisions and actions: combine customer support and chatbot, build a working prototype of chatbot, discover the fastest way of communication.
+|   | Hypothesis | Observation  | Learnings and insights | Decisions and actions |
+| ------ | ------ | ------- | ------ | ------- |
+| Cell   | Cell   | Cell   |
+| Cell   | Cell   | Cell   |
+| Cell   | Cell   | Cell   |
 
-| --- | --- | --- | --- | --- |
-|  | Hypothesis | Observation | Learnings and insights | Decisions and actions |
 | Personalised deals | We believed that personalised offers will make our customers happy and willing to buy more stuff from us. | We observed that people saw offers as “pushy” ads. | From that we learned that they need to be pleased at the right space, and communicated in a transparent and relevant manner, with the reason and the what is based on. | - offer relevant, personalised suggestions;- Concrete offers Positioned in relevant areas, not only on the dashboard- Space where offers / deals live- Explore notifications. |
 | Die donut die | We believed that customers need easy access to an overview of their data usage. | We observed: balance is the main priority of the app; it’s clear how much I have left. | From that we learned that the breakdown of data usage is not a necessity, but nice to have. | - explore how to break down the data usage; - focus on the data left. |
 | Halebot | We believed that customers need accurate answers in an efficient manner. | We observed they liked a direct connection with the company representative. | From that we learned that: direct is fast; they need visual queues. | - combine customer supportand chatbot.- build a working prototype of chatbot.- discover the fastest way of communication |
