@@ -6,6 +6,12 @@
   "favicon": "favicon-32x32.png",
   "navigation": [
     {
+      "text": "CV",
+      "link": "/upload/cv_pallinakolas.docx",
+      "external": false,
+      "position": "right"
+    },
+    {
       "text": "Palina Kolas",
       "link": "/",
       "position": "left",
