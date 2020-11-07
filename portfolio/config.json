@@ -7,8 +7,8 @@
   "navigation": [
     {
       "text": "CV",
-      "link": "/upload/cv_pallinakolas.docx",
-      "external": false,
+      "link": "https://docs.google.com/document/d/1KAsQlCUuVXniJyRfeR9TCnPYm-JCEd-JgwyBHk--hN8/edit?usp=sharing",
+      "external": true,
       "position": "right"
     },
     {
