@@ -1,6 +1,6 @@
 {
   "title": "",
-  "description": "UX/UI Designer and Frontend developer based in Stockholm, Sweden",
+  "description": "UX/UI Designer based in Stockholm, Sweden",
   "logo": "",
   "footer": "Ⓒ Palina Kolas",
   "favicon": "favicon-32x32.png",
@@ -15,7 +15,7 @@
       "text": "LinkedIn",
       "link": "https://www.linkedin.com/in/palinakolas/",
       "position": "right",
-      "external": false
+      "external": true
     },
     {
       "text": "Email me!",
