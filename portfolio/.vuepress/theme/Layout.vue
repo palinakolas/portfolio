@@ -203,4 +203,16 @@ html { font-family: 'Inter', sans-serif; }
   img{
     max-width: 100%;
   }
+
+   table{
+    font-size: 0.8rem;
+    margin-bottom: 2rem;
+   }
+
+  table td{
+    padding: 1rem;
+    font-size: 0.8rem;
+    border-bottom: 1px solid  rgb(230, 224, 224);
+    border-right: 1px solid  rgb(230, 224, 224);
+  }
 </style>
